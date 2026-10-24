@@ -20,7 +20,7 @@ The experiment telemetry and extracted feature dataset is hosted externally due 
 ├── GPS_Data_Simplified_2D_Feature_Map.xlsx  # Raw dataset source
 ├── UAV_GPS_Spoofing_Experiment.ipynb        # Main experiment notebook
 ├── requirements.txt                         # Python dependencies
-└── figures/                                 # Generated plots
+                                
 ```
 
 ## Features & Pipeline
