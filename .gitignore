@@ -1,0 +1,39 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+.vscode/
+
+# Raster image formats
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.bmp
+*.tiff
+*.tif
+*.ico
+
+# Vector image formats
+*.svg
+*.eps
+*.ai
+
+# Raw & camera image formats
+*.raw
+*.cr2
+*.nef
+*.arw
+*.dng
+
+# Design & project files
+*.psd
+*.xcf
+*.sketch
+*.fig
+
+*.pdf
+*.ps
+*.eps
+*.xlsx
